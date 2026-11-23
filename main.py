@@ -8,7 +8,8 @@ import shutil
 
 JOKE = (
     "Live on the demo, my agent fixed the crash by deleting the button "
-    "that crashed \u2014 then asked the audience to rate the fix five stars."
+    "that crashed \u2014 then asked the audience to leave the fix "
+    "a five-star review."
 )
 
 
